@@ -1,6 +1,6 @@
 # Vitali Hrybouski
 
-Age: 32
+Age: 33
 
 ## Contacts
 
@@ -56,6 +56,6 @@ solution = function (pocketStr) {  let x = 0;
 Electronic engineer
 
 ### Languages
-* English  - A1
+* English  - A2
 * French  - A1
 
